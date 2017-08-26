@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/producto_lista"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    tools:context="com.example.rvarg.actionbar.ListFragments.ListaProductosActivity"
+    android:name="com.example.rvarg.actionbar.ListFragments.ListaProductosFragment"
+    tools:layout="@layout/fragment_listado_productos" />
+

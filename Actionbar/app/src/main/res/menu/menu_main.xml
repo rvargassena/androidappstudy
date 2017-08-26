@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.rvarg.actionbar.MainActivity">
+    <item
+        android:id="@+id/action1"
+        android:orderInCategory="100"
+        android:title="Fragmentos"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action2"
+        android:orderInCategory="101"
+        android:title="Galeria"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action3"
+        android:icon="@android:drawable/arrow_up_float"
+        android:orderInCategory="102"
+        android:title="DIalogos"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action4"
+        android:orderInCategory="103"
+        android:title="Tabs"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action5"
+        android:orderInCategory="104"
+        android:title="Agenda"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action6"
+        android:orderInCategory="104"
+        android:title="List Fragments"
+        app:showAsAction="never" />
+</menu>
