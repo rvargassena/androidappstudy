@@ -21,7 +21,7 @@ public class ProductoFactory {
         productos.add(new Producto(8,"Speakers",34,"speakers"));
         productos.add(new Producto(9,"Watch",34,"watcher"));
         productos.add(new Producto(10,"Smartv",34,"smartv"));
-        productos.add(new Producto(11,"Hometeather",34,"hometeather"));
+        productos.add(new Producto(11,"Hometeather",34,"hometeather"));ddadadklaj
     }
     public List<Producto> obtenerProductos(){return productos;}
 }
