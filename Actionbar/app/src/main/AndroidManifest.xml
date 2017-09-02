@@ -31,12 +31,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Galeria.Main3Activity"
+            android:name=".Galeria.ComidasPrincipal"
             android:label="Galeria"
             android:parentActivityName=".MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
-                <action android:name="android.intent.action.Main3Activity" />
+                <action android:name="android.intent.action.ComidasPrincipal" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
