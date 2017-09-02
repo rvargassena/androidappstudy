@@ -7,7 +7,11 @@
     <string name="title_activity_main5">Main5Activity</string>
     <string name="title_activity_main6">Main6Activity</string>
     <string name="title_activity_main7">Main7Activity</string>
-
+    <string name="titlesection1">Desayunos</string>
+    <string name="titlesection2">Almuerzos</string>
+    <string name="title_section3">Postres</string>
+    <string name="title_section4">Ensaladas</string>
+    <string name="title_section5">Pedidos</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

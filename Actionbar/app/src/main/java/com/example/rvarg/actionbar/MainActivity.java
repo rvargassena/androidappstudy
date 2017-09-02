@@ -15,6 +15,7 @@ import android.webkit.WebViewClient;
 import android.widget.ProgressBar;
 
 import com.example.rvarg.actionbar.Fragmentos.Main2Activity;
+import com.example.rvarg.actionbar.Galeria.ComidasPrincipal;
 import com.example.rvarg.actionbar.Galeria.Main3Activity;
 import com.example.rvarg.actionbar.Dialogos.Main4Activity;
 import com.example.rvarg.actionbar.ListFragments.ListaProductosActivity;
@@ -89,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
             return true;
         }
         if (id == R.id.action2) {
-            Intent Galeria=new Intent(this,Main3Activity.class);
+            Intent Galeria=new Intent(this,ComidasPrincipal.class);
             startActivity(Galeria);
             return true;
         }
