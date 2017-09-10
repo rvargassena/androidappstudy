@@ -4,7 +4,7 @@ import com.example.rvarg.actionbar.R;
 public class Main3Activity  {
 
     private static Comidas[] Desayunos={
-            new Comidas("Americano","Huevos, Cafe, Jugo, Tostadas","$10.000",3.1f, R.drawable.desayuno1),
+            new Comidas("Pastuso","Arroz con verduras y pollo, Carne molida con la salsa de la casa, Sandwich con mortadela y queso","$10.000",3.1f, R.drawable.desayuno1),
             new Comidas("Americano","Huevos, Cafe, Jugo, Tostadas","$10.000",3.1f, R.drawable.desayuno2),
             new Comidas("Americano","Huevos, Cafe, Jugo, Tostadas","$10.000",3.1f, R.drawable.desayuno3),
             new Comidas("Americano","Huevos, Cafe, Jugo, Tostadas","$10.000",3.1f, R.drawable.desayuno4),
